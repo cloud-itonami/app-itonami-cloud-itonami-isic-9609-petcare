@@ -10,7 +10,9 @@ satellite pattern this fleet uses for `-facade` under 8129 and
 ## Why this repo exists, measured rather than assumed
 
 **ISIC 9609 explicitly includes "pet care services (grooming, boarding,
-training)."** That is the `includes` list of class 9609 in this
+training)."**
+Source: ISIC Rev.4, United Nations Statistics Division. © United Nations.
+That is the `includes` list of class 9609 in this
 workspace's own spec mirror (`cloud-itonami/org-un-isic`,
 `data/classes/9609.json`), read on 2026-08-08 — not an inference.
 

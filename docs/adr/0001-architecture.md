@@ -9,6 +9,7 @@
 ISIC 9609's `includes` list names "pet care services (grooming, boarding,
 training)" — read from this workspace's spec mirror
 `cloud-itonami/org-un-isic` (`data/classes/9609.json`), not from memory.
+Source: ISIC Rev.4, United Nations Statistics Division. © United Nations.
 
 Two things already existed and neither covers it:
 
